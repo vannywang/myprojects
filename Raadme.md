@@ -1,1 +1,1 @@
-This is project for testing and studying Github.s
+This is project for testing and studying Github.
